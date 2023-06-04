@@ -11,7 +11,7 @@ const Contact = () => {
                         CONTACT
                     </h3>
                     <h4 className="text-2xl font-bold mb-16">
-                        Don't be shy! Hit me up! 👇
+                        Don&apos;t be shy! Hit me up! 👇
                     </h4>
                 </div>
                 <div className="flex items-center sm:flex-row flex-col gap-10 sm:gap-20">

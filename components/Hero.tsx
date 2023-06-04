@@ -11,7 +11,7 @@ const Hero = () => {
                         Front-End Developer
                     </h1>
                     <p className="text-2xl md:ml-1 px-5 sm:px-0 text-[#b3b3b3]">
-                        Hi, I'm Muhammad Nadeem. A passionate Front-end
+                        Hi, I&apos;m Muhammad Nadeem. A passionate Front-end
                         Developer based in Lahore, Pakistan. 📍
                     </p>
                     <div className="flex gap-5 md:ml-1 text-3xl">
